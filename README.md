@@ -9,9 +9,9 @@
 [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/CII ID/badge)](https://bestpractices.coreinfrastructure.org/projects/CII ID)
 ```
 
-# PROJECT NAME
+# microCarbon
 
-_2-3 sentence description of the project_
+_microCarbon_
 
 ## Install
 
